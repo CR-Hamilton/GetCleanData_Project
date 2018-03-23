@@ -1,6 +1,11 @@
 # GetCleanData_Project
 Files for the Project requirement for Coursera's Getting and Cleaning Data course:  README.md, CodeBook.md
 
+  script to read the summarized data file:
+  fileURL <- "https://raw.githubusercontent.com/CR-Hamilton/GetCleanData_Project/master/sum_data"
+  download.file(fileURL, destfile = "mydata")
+  my_data <- read.table("mydata")
+
 -----------------------------------------------------
 Course Project for Coursera Getting and Cleaning Data
 Carolyn Hamilton   March 2018
