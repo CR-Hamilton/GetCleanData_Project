@@ -6,8 +6,10 @@ output: html_document
 ---
 ## CodeBook for Getting and Cleaning Data Course Project 
 
-Note: Summarized data for Step 5 can be read using the following command in R:
-data <- read.table(file_path, header = TRUE) 
+Note: Summarized data for Step 5 can be downloaded and read using the following commands in R:
+  * fileURL <- "https://raw.githubusercontent.com/CR-Hamilton/GetCleanData_Project/master/sum_data"
+  * download.file(fileURL, destfile = "mydata")
+  * my_data <- read.table("mydata")
 
 
 The following is a summary of the data and procedures used in this project. 
