@@ -67,7 +67,7 @@ two_way <- table(data$subject, data$activity)
 # Make the summary table of the means of all variables
 
 sum_data <- data %>% group_by(subject, activity) %>% summarize_all(mean)
-
-write.table(sum_data, file = "sum_data")
+sum_data
+write.table(sum_data, file = "sum_data", row.names = FALSE)
 
 
