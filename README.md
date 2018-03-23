@@ -1,5 +1,9 @@
 # GetCleanData_Project
-## Files for the Project requirement for Coursera's Getting and Cleaning Data course:  README.md, CodeBook.md
+## Files for the Project requirement for Coursera's Getting and Cleaning Data course: 
+*README.md
+*CodeBook.md
+*sum_data file containing summary means of all varaibles r
+*un_analysis.R file containing script used to clean and organize data
 
 ````script to read the summarized data file:
  * fileURL <- "https://raw.githubusercontent.com/CR-Hamilton/GetCleanData_Project/master/sum_data"
