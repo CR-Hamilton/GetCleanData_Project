@@ -13,6 +13,7 @@ Carolyn Hamilton   March 2018
 Data taken from the Smartlab project described below. Edits to the original document are delineated by ---- to distinguish them from the original.
 -----------------------------------------------------
 ==================================================================
+
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
 ==================================================================
