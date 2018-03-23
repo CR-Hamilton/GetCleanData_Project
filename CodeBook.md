@@ -8,8 +8,8 @@ output: html_document
 
 Note: Summarized data for Step 5 can be downloaded and read using the following commands in R:
   * fileURL <- "https://raw.githubusercontent.com/CR-Hamilton/GetCleanData_Project/master/sum_data"
-  * download.file(fileURL, destfile = "mydata")
-  * my_data <- read.table("mydata")
+  * download.file(fileURL, destfile = "my_data")
+  * my_data <- read.table("my_data")
 
 
 The following is a summary of the data and procedures used in this project. 
