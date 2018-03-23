@@ -1,5 +1,6 @@
 # GetCleanData_Project
 ## Files for the Project requirement for Coursera's Getting and Cleaning Data course: 
+Note: Formatting of this document is not a graded requirement for Coursera. Please forgive the formatting of these markdown documents.
 * README.md
 * CodeBook.md
 * sum_data file containing summary means of all varaibles 
